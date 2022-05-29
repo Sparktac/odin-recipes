@@ -7,5 +7,8 @@ functional links to each page. Will include pictures.
 Skills demonstrated:
 
 - HTML boilerplate
-- 
+- Header id + return links
+- Image sources w/ alt text + style
+- <div> and <em> usage
+- Ordered/unordered lists
 
