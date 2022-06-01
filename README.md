@@ -7,9 +7,10 @@ functional links to each page. Must include pictures.
 Skills demonstrated:
 
 - HTML boilerplate
-- Header id + return links
+- ID + return links
 - Image sources w/ alt text + style
-- div and em usage
+- <em> and <u> usage
 - Ordered + unordered lists
 - Use of Git in CLI to add, commit, and add message before push to Github
-
+- ID, Class, Type CSS differentiations
+- External, internal, & inline CSS
