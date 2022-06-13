@@ -9,7 +9,7 @@ Skills demonstrated:
 - HTML boilerplate
 - ID + return links
 - Image sources w/ alt text + style
-- <em> and <u> usage
+- <code><em></code> and <code><u></code> usage
 - Ordered + unordered lists
 - Use of Git in CLI to add, commit, and add message before push to Github
 - ID, Class, Type CSS differentiations
