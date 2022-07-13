@@ -1,6 +1,6 @@
 # odin-recipes
 Project goal is to create a website with main page along with 3 recipe pages with 
-functional links to each page. Must include pictures.
+functional links to each. Must include pictures.
 
 Skills demonstrated:
 
