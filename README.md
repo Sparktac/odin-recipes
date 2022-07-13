@@ -12,4 +12,4 @@ Skills demonstrated:
 - ID, Class, Type CSS differentiations
 - External, internal, & inline CSS
 
-  <a href="https://sparktac.github.io/odin-recipes/">Live Code</a>
+  <a href="https://sparktac.github.io/odin-recipes/" target="_blank">Live Code</a>
