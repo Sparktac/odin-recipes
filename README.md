@@ -1,7 +1,5 @@
 # odin-recipes
-Odin Recipe Website
-
-Current project is to create a website with landing page and 3 recipes with 
+Project goal is to create a website with main page along with 3 recipe pages with 
 functional links to each page. Must include pictures.
 
 Skills demonstrated:
@@ -9,8 +7,9 @@ Skills demonstrated:
 - HTML boilerplate
 - ID + return links
 - Image sources w/ alt text + style
-- <em> and <u> usage
 - Ordered + unordered lists
-- Use of Git in CLI to add, commit, and add message before push to Github
+- Use of Git in CLI to add, commit, and add messages before push to Github
 - ID, Class, Type CSS differentiations
 - External, internal, & inline CSS
+
+  <a href="https://sparktac.github.io/odin-recipes/">Live Code</a>
